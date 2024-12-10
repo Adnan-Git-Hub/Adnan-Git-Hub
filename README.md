@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adnan-Git-Hub
-- 👀 I’m interested in digital Problems Solving Through Code 
+- 👀 I’m interested in Digital Problems Solving Through Code 
 - 🌱 I’m currently learning Agentic AI
 - 💞️ I’m looking to collaborate on web development and AI application's 
 - 📫 How to reach me ... adnanmasih8@gmail.com
